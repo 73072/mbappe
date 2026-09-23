@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+    font-family: "Outfit", sans-serif;
+    text-align:center;
+    background: linear-gradient(#ade8f4, white);
+    font-size: 40px;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#jersey {
+    width: 210px;
+    padding: 10px 40px;
+
+}
+
+.flyte {
+    width: 190px;
+}
+
+h1, h2 {
+    gap: 5px;
+   margin: 10px;
+}
+
+h2{
+    margin-top: 50px;
+}
+
+h1{
+    margin-bottom: 30px;
+}
